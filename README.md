@@ -6,7 +6,7 @@ Liste des packages R à installer : forecast, ggplot2, fpp, fpp2, vars
 
 # Partie 1 : généralités et lissage exponentiel
 
-Slides [TimesSeries-part1.pdf](../JuJacques/TimesSeries/TimesSeries-part1.pdf)
+Slides [TimesSeries-part1.pdf](../JuJacques/main/TimesSeries/TimesSeries-part1.pdf)
 
 Exercice 1 : première manipulation avec le jeu de données "varicelle" (varicelle.csv)\
 Exercice 2 : prévision par lissage exponentiel de la concentration en co2\
