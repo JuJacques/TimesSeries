@@ -1,3 +1,5 @@
 # TimesSeries
 
-Partie 1 du cours : 
+Référence pour ce cours : https://otexts.com/fpp2/
+
+# Data sets
