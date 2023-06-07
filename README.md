@@ -9,7 +9,7 @@ Liste des packages R à installer : forecast, ggplot2, fpp, fpp2, vars
 Slides [TimesSeries-part1.pdf](TimesSeries-part1.pdf)
 
 Exercice 1 : première manipulation avec le jeu de données "varicelle" [varicelle.csv](varicelle.csv)\
-Exercice 2 : prévision par lissage exponentiel de la concentration en co2: [co2.pdf](correction)\
+Exercice 2 : prévision par lissage exponentiel de la concentration en co2: [correction](co2.pdf)\
 Exercice 3 : prévision par lissage exponentiel des précipitations à San Francisco [sanfran.csv](sanfran.csv)
 
 # Partie 2 : modèles SARIMA
