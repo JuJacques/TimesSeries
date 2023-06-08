@@ -22,7 +22,7 @@ Exercice 4 : prévision des précipitations à San Francisco avec modèle SARIMA
 Exercice 5 : prévision du nombre de cas de varicelles avec modèle SARIMA\
 Exercice 6 : prévision de la série AirPassengers avec modèle SARIMA
 
-# Partie 3 : réseaux de neurones et séries multivariées
+# Partie 3 : réseaux de neurones et modèles de machine learning
 
 Slides [TimesSeries-part3.pdf](TimesSeries-part3.pdf)
 
