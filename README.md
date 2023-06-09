@@ -17,10 +17,10 @@ Exercice 3 : prévision par lissage exponentiel des précipitations à San Franc
 Slides [TimesSeries-part2.pdf](TimesSeries-part2.pdf)
 
 Exercice 1 : analyse de la série AirPassengers\
-Exercice 3 : prévision avec modèle ARIMA de la série uschange\
-Exercice 4 : prévision des précipitations à San Francisco avec modèle SARIMA\
+Exercice 3 : prévision avec modèle ARIMA de la série uschange: [correction](uschange.pdf)\
+Exercice 4 : prévision des précipitations à San Francisco avec modèle SARIMA: [correction](SanFran.pdf)\
 Exercice 5 : prévision du nombre de cas de varicelles avec modèle SARIMA\
-Exercice 6 : prévision de la série AirPassengers avec modèle SARIMA
+Exercice 6 : prévision de la série AirPassengers avec modèle SARIMA: [correction](AirPasengers.pdf)\
 
 # Partie 3 : réseaux de neurones et modèles de machine learning
 
