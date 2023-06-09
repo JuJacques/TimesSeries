@@ -26,13 +26,13 @@ Exercice 6 : prévision de la série AirPassengers avec modèle SARIMA: [correct
 
 Slides [TimesSeries-part3.pdf](TimesSeries-part3.pdf)
 
-Exercice 1 : prévision des précipitations à San Francisco par réseaux de neuronnes
+Exercice 1 : prévision des précipitations à San Francisco par réseaux de neuronnes: [correction](SanFran.pdf)\
 
 # Partie 4 : séries multivariées
 
 Slides [TimesSeries-part4.pdf](TimesSeries-part4.pdf)
 
-Exercice 1 : prévision de la demande en électricité à partir de covariables\
+Exercice 1 : prévision de la demande en électricité à partir de covariables: [correction](electricity.pdf)\
 Exercice 2 : prévision des données uschange
 
 
