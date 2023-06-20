@@ -26,7 +26,7 @@ Exercice 6 : prévision de la série AirPassengers avec modèle SARIMA
 
 Slides [TimesSeries-part3.pdf](TimesSeries-part3.pdf)
 
-Exercice 1 : prévision des précipitations à San Francisco par réseaux de neuronnes\
+Exercice 1 : prévision des précipitations à San Francisco par réseaux de neuronnes
 
 # Partie 4 : séries multivariées
 
