@@ -1,14 +1,11 @@
+# Contenu
+- Nous nous intéressons aux séries temporelles où la quantité d'intérêt a été observée à de suffisament nombreuse reprises pour pouvoir chercher à modéliser sa dynamique temporelle.
+- Nous travaillerons également à la modélisation de plusieurs séries temporelles observées simultanément.
+- Nous ne nous intéresserons pas aux études longitudinales où un phénomène a été observé en un nombre restreint de pas de temps. Il faudra pour cela se diriger vers les modèles mixtes.
+
 # Préliminaires
-
-Référence pour ce cours : https://otexts.com/fpp2/
-
-Liste des packages R à installer : forecast, ggplot2, fpp, fpp2, vars
-
-# Contenu du cours
-- nous nous intéressons aux séries temporelles où la quantité d'intérêt a été observée à de suffisament nombreuse reprises pour pouvoir chercher à modéliser sa dynamique temporelle.
-- nous travaillerons également à la modélisation de plusieurs séries temporelles observées simultanément.
-- nous ne nous intéresserons pas aux études longitudinales où un phénomène a été observé en un nombre restreint de pas de temps. Il faudra pour cela se diriger vers les modèles mixtes.
-
+- Référence : https://otexts.com/fpp2/
+- Liste des packages R à installer : forecast, ggplot2, fpp, fpp2, vars
 
 # Partie 1 : généralités et lissage exponentiel
 
