@@ -38,6 +38,11 @@ Slides [TimesSeries-part4.pdf](TimesSeries-part4.pdf)
 - Exercice 1 : prévision de la demande en électricité à partir de covariables
 - Exercice 2 : prévision des données uschange
 
+# Bonus
+
+- Détection de rupture dans les séries temporelles: [R-segmented.pdf](R-segmented.pdf)
+- Clustering de séries temporelles: [DTW.pdf](DTW.pdf)
+
 
 
 
