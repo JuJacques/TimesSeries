@@ -9,7 +9,7 @@
 
 # Partie 1 : généralités et lissage exponentiel
 
-Slides [TimesSeries-part1.pdf](TimesSeries-part1.pdf)
+Slides [TimeSeries-part1.pdf](TimeSeries-part1.pdf)
 
 - Exercice 1 : première manipulation avec le jeu de données "varicelle" [varicelle.csv](varicelle.csv)
 - Exercice 2 : prévision par lissage exponentiel de la concentration en co2
@@ -17,7 +17,7 @@ Slides [TimesSeries-part1.pdf](TimesSeries-part1.pdf)
 
 # Partie 2 : modèles SARIMA
 
-Slides [TimesSeries-part2.pdf](TimesSeries-part2.pdf)
+Slides [TimeSeries-part2.pdf](TimeSeries-part2.pdf)
 
 - Exercice 1 : analyse de la série AirPassengers
 - Exercice 3 : prévision avec modèle ARIMA de la série uschange
@@ -27,13 +27,13 @@ Slides [TimesSeries-part2.pdf](TimesSeries-part2.pdf)
 
 # Partie 3 : réseaux de neurones et modèles de machine learning
 
-Slides [TimesSeries-part3.pdf](TimesSeries-part3.pdf)
+Slides [TimeSeries-part3.pdf](TimeSeries-part3.pdf)
 
 - Exercice 1 : prévision des précipitations à San Francisco par réseaux de neuronnes
 
 # Partie 4 : séries multivariées
 
-Slides [TimesSeries-part4.pdf](TimesSeries-part4.pdf)
+Slides [TimeSeries-part4.pdf](TimeSeries-part4.pdf)
 
 - Exercice 1 : prévision de la demande en électricité à partir de covariables
 - Exercice 2 : prévision des données uschange
@@ -41,7 +41,7 @@ Slides [TimesSeries-part4.pdf](TimesSeries-part4.pdf)
 # Bonus
 
 - Détection de rupture dans les séries temporelles: [R-segmented.pdf](R-segmented.pdf)
-- Clustering de séries temporelles: [DTW.pdf](DTW.pdf)
+- Clustering de séries temporelles: [TimeSeries-clustering.pdf](DTW.pdf)
 
 
 
