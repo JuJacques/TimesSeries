@@ -40,7 +40,7 @@ Slides [TimeSeries-part4.pdf](TimeSeries-part4.pdf)
 
 # Bonus
 
-- Détection de rupture dans les séries temporelles: [R-segmented.pdf](R-segmented.pdf)
+- Détection de rupture dans les séries temporelles: [Detection-de-rupture.pdf](Detection-de-rupture.pdf)
 - Clustering de séries temporelles: [TimeSeries-clustering.pdf](TimeSeries-clustering.pdf)
 
 
