@@ -27,7 +27,7 @@ Slides [TimeSeries-part2.pdf](TimeSeries-part2.pdf)
 
 # Partie 3 : réseaux de neurones et modèles de machine learning
 
-Slides [TimeSeries-part3.pdf](TimeSeries-part3.pdf)
+Slides [ReseauxDeNeurones.pdf](ReseauxDeNeurones.pdf) et [TimeSeries-part3.pdf](TimeSeries-part3.pdf)
 
 - Exercice 1 : prévision des précipitations à San Francisco par réseaux de neuronnes
 
@@ -41,7 +41,7 @@ Slides [TimeSeries-part4.pdf](TimeSeries-part4.pdf)
 # Bonus
 
 - Détection de rupture dans les séries temporelles: [Detection-de-rupture.pdf](Detection-de-rupture.pdf)
-- Clustering de séries temporelles: [TimeSeries-clustering.pdf](TimeSeries-clustering.pdf)
+- Clustering de séries temporelles: [Clustering.pdf](Clustering.pdf) et [TimeSeries-clustering.pdf](TimeSeries-clustering.pdf)
 
 
 
